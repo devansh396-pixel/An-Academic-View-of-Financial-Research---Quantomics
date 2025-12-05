@@ -55,7 +55,7 @@ This repository serves three primary audiences:
 
 ## 📚 The 8-Phase Learning Architecture
 
-### Phase 1: Foundations (Papers 1-20) | 3-4 months
+### Phase 1: Foundations (Papers 1-20) 
 **Focus**: Classical Econometrics & Testing
 
 Master regression diagnostics, time series fundamentals, heteroskedasticity testing, structural stability, and advanced estimation methods. Essential building blocks before any advanced work.
@@ -64,7 +64,7 @@ Master regression diagnostics, time series fundamentals, heteroskedasticity test
 
 ---
 
-### Phase 2: The Volatility Revolution (Papers 21-40) | 4-5 months
+### Phase 2: The Volatility Revolution (Papers 21-40) 
 **Focus**: ARCH/GARCH and Volatility Modeling
 
 The breakthrough that transformed finance. Study chronologically from Engle's original ARCH through GARCH extensions, realized volatility, and regime-switching models.
@@ -78,7 +78,7 @@ The breakthrough that transformed finance. Study chronologically from Engle's or
 
 ---
 
-### Phase 3: Asset Pricing Theory (Papers 41-62) | 4-5 months
+### Phase 3: Asset Pricing Theory (Papers 41-62) 
 **Focus**: How Assets Are Priced
 
 From Black-Scholes option pricing through factor models and return predictability. Understand both theoretical foundations and empirical reality checks.
@@ -92,7 +92,7 @@ From Black-Scholes option pricing through factor models and return predictabilit
 
 ---
 
-### Phase 4: Market Behavior (Papers 63-76) | 3-4 months
+### Phase 4: Market Behavior (Papers 63-76) 
 **Focus**: How Markets Actually Work
 
 Bridge theory and reality. Market efficiency, technical trading, behavioral finance, and microstructure. Understand what works, what doesn't, and why.
@@ -106,7 +106,7 @@ Bridge theory and reality. Market efficiency, technical trading, behavioral fina
 
 ---
 
-### Phase 5: Macroeconomics & Markets (Papers 77-88) | 3 months
+### Phase 5: Macroeconomics & Markets (Papers 77-88) 
 **Focus**: Macro-Financial Linkages
 
 Connect macroeconomic forces to financial markets. VAR models, uncertainty shocks, monetary policy, and international transmission.
@@ -120,7 +120,7 @@ Connect macroeconomic forces to financial markets. VAR models, uncertainty shock
 
 ---
 
-### Phase 6: Contagion & Crises (Papers 89-96) | 2-3 months
+### Phase 6: Contagion & Crises (Papers 89-96) 
 **Focus**: Financial Crises and Spillovers
 
 How shocks propagate through the financial system. Network approaches, spillover analysis, and crisis dynamics.
@@ -134,7 +134,7 @@ How shocks propagate through the financial system. Network approaches, spillover
 
 ---
 
-### Phase 7: Corporate Finance & Credit (Papers 97-101) | 1 month
+### Phase 7: Corporate Finance & Credit (Papers 97-101) 
 **Focus**: Corporate Applications
 
 Corporate financial decisions, credit risk, and derivatives markets. Connecting firm-level behavior to market-level phenomena.
@@ -143,7 +143,7 @@ Corporate financial decisions, credit risk, and derivatives markets. Connecting 
 
 ---
 
-### Phase 8: Machine Learning Era (Papers 102-108) | 2-3 months
+### Phase 8: Machine Learning Era (Papers 102-108) 
 **Focus**: AI in Finance
 
 From random forests to deep learning. How machine learning is transforming empirical asset pricing and forecasting.
