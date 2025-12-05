@@ -1,4 +1,4 @@
-# Financial Econometrics Research Compendium
+# An Academic View of Financial Research - Quantomics
 
 **A Systematic Analysis of 75 Years of Foundational Research (1950-2024)**
 
